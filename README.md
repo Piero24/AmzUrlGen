@@ -260,14 +260,15 @@
   In questo caso l'unica necessaria è quella delle pyTelegramBotAPI.
   <br/>
   <br/>
+</p>
   
   
   ```
   pip3 install pyTelegramBotAPI
   ```
   
-  
-  <br/>
+<p align="center">
+    <br/>
   <br/>
   <br/>
   Once you have downloaded the program you need to create the bot.
