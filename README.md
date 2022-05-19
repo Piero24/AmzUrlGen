@@ -41,9 +41,9 @@
   So you can increase the sales of your products on the Amazon Marketplace.*
   
 <p align="center">
-    Documentation for this project is available here
+    The Index for this project is available here
     <br/>
-    <a href="#documentation"><strong>Explore the docs »</strong></a>
+    <a href="#index"><strong>Explore the Index »</strong></a>
     <br/>
     <br/>
     🇮🇹  
