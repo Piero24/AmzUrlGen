@@ -268,8 +268,6 @@
   ```
   
 <p align="center">
-    <br/>
-  <br/>
   <br/>
   Once you have downloaded the program you need to create the bot.
   <br/>
@@ -304,6 +302,7 @@
   (It is a sequence of 9 personal numbers that identifies your account)
   <br/>
   also in this case
+  <br/>
   <br/>
   DO NOT SHARE YOUR TELEGRAM ID WITH ANYONE
   <br/>
