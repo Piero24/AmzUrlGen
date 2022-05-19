@@ -183,6 +183,7 @@
   COMING SOON
   <br/>
   <br/>
+  <br/>
   <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev.png">
   <br/>
   <br/>
@@ -193,16 +194,18 @@
 <h2 id="made-in" align="center"><br/>🛠  Built in  🛠</h2>
   
 <p align="center">
-  This section should list all the major frameworks / libraries used to start your project.
+  Il bot usa 
+  <a href="https://github.com/eternnoir/pyTelegramBotAPI">pyTelegramBotAPI</a>.
   <br/>
-  Leave any add-ons / plug-ins for the thanks section.
+  <br/>
+  Maggiori dettagli sono presenti 
+  <a href="#third-party-licenses">qui</a>.
   <br/>
   <br/>
-  <a href="https://github.com/Piero24/Template-README">Programming Language 1</a>
-  •
-  <a href="https://github.com/Piero24/Template-README/issues">Programming Language 2</a>
-  •
-  <a href="https://github.com/Piero24/Template-README/issues">Programming Language 3</a>
+  Linguaggi utilizzati:
+  <br/>
+  <br/>
+  <a href="https://www.python.org">Python</a>
 </p>
 
 <p align="right"><a href="#top">⇧</a></p>
