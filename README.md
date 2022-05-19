@@ -268,6 +268,46 @@
   
   
   <br/>
+  <br/>
+  <br/>
+  Once you have downloaded the program you need to create the bot.
+  <br/>
+  To do this, simply open the telegram app, search
+  <br/>
+  @BotFather
+  <br/>
+  Start by clicking on /start and continue to generate the new bot.
+  <br/>
+  You will need to choose your name and username.
+  <br/>
+  If you want, you can also upload your bot's profile image from here.
+  <br/>
+  <br/>
+  Once generated, retrieve your bot token.
+  <br/>
+  The Token is an alphanumeric string with symbols that uniquely identifies the bot.
+  <br/>
+  <br/>
+  DO NOT SHARE THE TOKEN WITH ANYONE
+  This token is strictly personal.
+  <br/>
+  <br/>
+  Now you need to recover your Telegram ID.
+  <br/>
+  To do this, look for the bot
+  <br/>
+  @
+  <br/>
+  follow the instructions and recover your ID.
+  <br/>
+  (It is a sequence of 9 personal numbers that identifies your account)
+  <br/>
+  also in this case
+  <br/>
+  DO NOT SHARE YOUR TELEGRAM ID WITH ANYONE
+  <br/>
+  This is an example of token ID: 123123608
+  <br/>
 </p>
   
 <p align="right"><a href="#top">⇧</a></p>
