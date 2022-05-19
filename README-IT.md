@@ -44,9 +44,9 @@
 > *<p align="center">Questo file contiene un esempio in italiano su come scrivere un file readme.md per **Github!**<br/> È buona norma utilizzare correttamente la sintassi del formato Markdown per evidenziare i comandi da lanciare o particolari blocchi di codice, per maggiori informazioni si veda come creare e sottolineare i blocchi di codice.*
 
 <p align="center">
-    An awesome README template to jumpstart your projects!
+    La legenda è disponibile qui
     <br/>
-    <a href="#documentation"><strong>Explore the docs »</strong></a>
+    <a href="#index"><strong>Visiona l'Indice »</strong></a>
     <br/>
     <br/>
     🇬🇧 
