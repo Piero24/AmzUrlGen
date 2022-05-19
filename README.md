@@ -74,6 +74,7 @@
   These are the available links and their explanation:
   <br/>
   <br/>
+  <br/>
   🧙‍ <strong>MAGIC LINK</strong> 🧙‍
   <br/>
   SuperURL that mimics external traffic. Proven to be the best ranking URL.
@@ -259,9 +260,13 @@
   In questo caso l'unica necessaria è quella delle pyTelegramBotAPI.
   <br/>
   <br/>
+  
+  
   ```
   pip3 install pyTelegramBotAPI
   ```
+  
+  
   <br/>
 </p>
   
