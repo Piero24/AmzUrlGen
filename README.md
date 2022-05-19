@@ -216,9 +216,6 @@
 
 <p align="center">
   <h4 align="center">
-    <a href="#documentation">Documentation</a>
-  </h4>
-  <h4 align="center">
     <a href="#prerequisites">Prerequisites</a>
   </h4>
   <h4 align="center">
@@ -254,31 +251,18 @@
 
 
 
-<h2 id="documentation" align="center"><br/><br/>📚  Documentation  📚</h2>
-
-<p align="center">
-  Including pieces of documentation will allow you to better understand what the program does.
-  <br/>
-  At this point it is best to write only short portions.
-  <br/>
-  <br/>
-  For a broader view it is better to refer the user to the documentation via links.
-  <br/>
-  <a href="https://shields.io/">Documentation »</a>
-</p>
-
-<p align="right"><a href="#top">⇧</a></p>
-
-
-
 <h2 id="prerequisites" align="center"><br/>🧰  Prerequisites  🧰</h2>
 
 <p align="center">
-  This is an example of how to list the things needed to use the software and how to install them.
-  
+  Prima di iniziare è necessario installare le dipendenze.
+  <br/>
+  In questo caso l'unica necessaria è quella delle pyTelegramBotAPI.
+  <br/>
+  <br/>
   ```
-  Pre-requisites section
+  pip3 install pyTelegramBotAPI
   ```
+  <br/>
 </p>
   
 <p align="right"><a href="#top">⇧</a></p>
