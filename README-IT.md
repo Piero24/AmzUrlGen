@@ -23,16 +23,16 @@
 <!-- Done ✅ Work in progress ⚠️ ~~Deprecate~~ ⛔️ -->
 **Status del progetto:** Work in progress ⚠️ <a href="#maintenance">⇩</a>
 <br/>
-**Percentuale completamente:** 40% 🔋 <a href="#roadmap">⇩</a>
+**Percentuale completamente:** 70% 🔋 <a href="#roadmap">⇩</a>
 <br/><br/>
 
 
 <p align="center">
-  <img src="https://findicons.com/files/icons/2779/simple_icons/512/apple_512_black.png" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/Piero24/AmzUrlGen/main/icon/logo%20AmzMsgRRBot.png?token=GHSAT0AAAAAABUJQU4TPAVO7G6CFGMGVSJYYUGYMGQ" width="100" height="100">
 </p>
 
 <h1 align="center">
-    <a href="https://github.com/Piero24/Template-README">PROJECT TITLE</a>
+    <a href="https://github.com/Piero24/Template-README">AmazonUrlGen</a>
 </h1>
 
 <!--
