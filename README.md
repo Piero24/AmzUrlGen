@@ -71,7 +71,7 @@
   <br/>
   <br/>
   <br/>
-  <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png">
+  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev.png">
   <br/>
   <br/>
 </p>
