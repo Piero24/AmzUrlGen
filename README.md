@@ -67,8 +67,120 @@
 <h2 id="itroduction" align="center"><br/><br/><br/>📔  Itroduction  📔</h2>
           
 <p align="center">
-  This section contains a series of information on how to use the code such as the prerequisites, the dev tools to use etc.
+  Thanks to this script you can have your own personal telegram bot to create the links for the listings.
   <br/>
+  The bot allows you to generate the best links to better index your products.
+  <br/>
+  These are the available links and their explanation:
+  <br/>
+  <br/>
+  🧙‍ <strong>MAGIC LINK</strong> 🧙‍
+  <br/>
+  SuperURL that mimics external traffic. Proven to be the best ranking URL.
+  <br/>
+  <br/>
+  🐲 <strong>SUPREME URL 2.0</strong> 🐲
+  <br/>
+  2-step URL that provides incredible ranking results. This URL restricts products via an ASIN and a keyword.
+  <br/>
+  Ranking choice # 1 After many tests, we have seen fantastic results with this URL.
+  <br/>
+  <br/>
+  🐉 <strong>SUPREME URL</strong> 🐉
+  <br/>
+  This is the ultimate Super URL generator. Our proprietary software generates the EXACT 
+  <br/>
+  Amazon URL used to determine search time, keyword attribution and more. 
+  <br/>
+  Drive buyers to the product page, increasing conversions. 
+  <br/>
+  There is no other Super URL out there like it!
+  <br/>
+  <br/>
+  🔎 <strong>SEARCH FIND BUY SEEKER URL (SFB)</strong> 🔎
+  <br/>
+  This URL will allow your customers to find the product in the search results. 
+  <br/>
+  We try to find the exact page where your ad is located.
+  <br/>
+  In some cases, your customers may need to search multiple pages.
+  <br/>
+  <br/>
+  👟 <strong>2-STEP BRAND URL</strong> 👟
+  <br/>
+  This Super URL filters your required product by brand and keyword and 
+  <br/>
+  attributes keywords that are directly related to your product title. 
+  <br/>
+  This URL does not include the timestamp feature and directs buyers to click on the listing before purchasing.
+  <br/>
+  <br/>
+  🌱 <strong>BUY TOGETHER URL</strong> 🌱
+  <br/>
+  This Super URL allows you to manipulate Amazon's "frequently bought together" section of 
+  <br/>
+  your listing, driving traffic to a button that adds two items to your cart. 
+  <br/>
+  With enough purchases of two items, they will appear in the "Frequently Purchased Together" section for both listings.
+  <br/>
+  <br/>
+  🛒 <strong>ADD TO CART URL</strong> 🛒
+  <br/>
+  Conversions generated via this URL give Amazon the impression that the purchase originated from Amazon Alexa. 
+  <br/>
+  With enough purchases, this increases the likelihood of earning the 
+  <br/>
+  "Amazon Choice" badge, often leading to increased organic sales.
+  <br/>
+  <br/>
+  🔑 <strong>CANONICAL URL</strong> 🔑
+  <br/>
+  25% of Amazon's search traffic comes from search engines, 
+  <br/>
+  so creating this link allows you to optimize your page for search engine traffic outside of Amazon.
+  <br/>
+  Target 5 keywords with this URL and share on PBN or blog with anchor link.
+  <br/>
+  So, watch it climb the Google rankings, based on your keywords!
+  <br/>
+  <br/>
+  <strong>PLAIN URL</strong>
+  <br/>
+  This is a simple redirect link for your Amazon listing without the Super URL. 
+  <br/>
+  Use this redirect to tag clicks with your retargeting pixel or simply to track click data.
+  <br/>
+  <br/>
+  ⭐ ️<strong>REVIEW LINK</strong> ⭐️
+  <br/>
+  This link directs traffic to the "Create a Review" page, set with a default 5-star rating.
+  <br/>
+  <br/>
+  <strong>ADD TO CART LANDING PAGE</strong>
+  <br/>
+  This generates an Add to Cart landing page with instructions.
+  <br/>
+  <br/>
+  🚀 <strong>AMAZON CHOISE URL</strong> 🚀
+  <br/>
+  This creates search results based on "Alexa's Top Picks" with a specific keyword and ASIN.
+  <br/>
+  <br/>
+  1️⃣ <strong>AMAZON BEST SELLER URL</strong> 1️⃣
+  <br/>
+  This creates search results based on "Alexa's Best Seller" with a specific keyword and ASIN.
+  <br/>
+  <br/>
+  🔵 <strong>ALEXA LINK</strong> 🔵
+  <br/>
+  <br/>
+  COMING SOON
+  <br/>
+  <br/>
+  🔥 <strong>AFFILIATE LINK</strong> 🔥
+  <br/>
+  <br/>
+  COMING SOON
   <br/>
   <br/>
   <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev.png">
