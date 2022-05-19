@@ -24,7 +24,7 @@
 <!-- Done ✅ Work in progress ⚠️ ~~Deprecate~~ ⛔️ -->
 **Project Status:** Work in progress ⚠️ <a href="#maintenance">⇩</a>
 <br/>
-**Percentage Completely:** 40% 🔋 <a href="#roadmap">⇩</a>
+**Percentage Completely:** 70% 🔋 <a href="#roadmap">⇩</a>
 <br/>
 <br/>
 
