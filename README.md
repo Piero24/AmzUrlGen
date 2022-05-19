@@ -1,15 +1,15 @@
 <div id="top"></div>
 
 <!-- BADGE -->
-[![](https://img.shields.io/github/release-date/piero24/Template-README)]()
-[![](https://img.shields.io/github/last-commit/piero24/Template-README)]()
-[![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/Piero24/Template-README)
-<!--[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/Piero24/Template-README) -->
-[![](https://img.shields.io/github/issues/piero24/Template-README)]()
-[![](https://img.shields.io/github/issues-pr/piero24/Template-README)]()
-[![](https://img.shields.io/github/downloads/piero24/Template-README/total)]()
+[![](https://img.shields.io/github/release-date/piero24/AmazonUrlGen)]()
+[![](https://img.shields.io/github/last-commit/piero24/AmazonUrlGen)]()
+[![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/Piero24/AmazonUrlGen)
+<!--[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/Piero24/AmazonUrlGen) -->
+[![](https://img.shields.io/github/issues/piero24/AmazonUrlGen)]()
+[![](https://img.shields.io/github/issues-pr/piero24/AmazonUrlGen)]()
+[![](https://img.shields.io/github/downloads/piero24/AmazonUrlGen/total)]()
 
-[![](https://img.shields.io/github/license/piero24/Template-README)]()
+[![](https://img.shields.io/github/license/piero24/AmazonUrlGen)]()
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 
@@ -29,30 +29,34 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Piero24/AmzUrlGen/main/icon/logo%20AmzMsgRRBot.png?token=GHSAT0AAAAAABUJQU4SLPUQ634V2TMMKYVOYUGYBBA" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/Piero24/AmzUrlGen/main/icon/logo%20AmzMsgRRBot.png?token=GHSAT0AAAAAABUJQU4TPAVO7G6CFGMGVSJYYUGYMGQ" width="100" height="100">
 </p>
 
 <h1 align="center">
-    <a href="https://github.com/Piero24/Template-README">AmazonUrlGen</a>
+    <a href="https://github.com/Piero24/AmzUrlGen">AmazonUrlGen</a>
 </h1>
 
-> *<p align="center">This file contains an example in Italian on how to write a readme.md file for **Github!** <br/> It is a good idea to use the Markdown format syntax correctly to highlight the commands to be launched or particular blocks of code, for more for information see how to create and underline code blocks.*
+> *<p align="center">AmzUrlGen is a telegram bot that allows you to create URLs for your listings on Amazon.
+  <br/>
+  These links allow you to rank faster and better for the keywords you have chosen.
+  <br/>
+  So you can increase the sales of your products on the Amazon Marketplace.*
 <p align="center">
-    An awesome README template to jumpstart your projects!
+    Documentation for this project is available here
     <br/>
     <a href="#documentation"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
     🇮🇹  
-    <a href="https://github.com/Piero24/Template-README/blob/main/README.md"><strong>Italian</strong></a> 
+    <a href="https://github.com/Piero24/AmzUrlGen/blob/main/README-IT.md"><strong>Italian</strong></a> 
     version
     <br/>
     <br/>
-    <a href="https://github.com/Piero24/Template-README">View Demo</a>
+    <a href="https://github.com/Piero24/AmzUrlGen">View Demo</a>
     •
-    <a href="https://github.com/Piero24/Template-README/issues">Report Bug</a>
+    <a href="https://github.com/Piero24/AmzUrlGen/issues">Report Bug</a>
     •
-    <a href="https://github.com/Piero24/Template-README/issues">Request Feature</a>
+    <a href="https://github.com/Piero24/AmzUrlGen/issues">Request Feature</a>
   </p>
 
 
