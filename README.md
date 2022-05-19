@@ -37,9 +37,7 @@
 </h1>
 
 > *<p align="center">AmzUrlGen is a telegram bot that allows you to create URLs for your listings on Amazon.
-  
   These links allow you to rank faster and better for the keywords you have chosen.
-  
   So you can increase the sales of your products on the Amazon Marketplace.*
   
 <p align="center">
