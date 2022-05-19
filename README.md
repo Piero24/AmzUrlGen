@@ -29,18 +29,12 @@
 <br/>
 
 <p align="center">
-  <img src="https://findicons.com/files/icons/2779/simple_icons/512/apple_512_black.png" width="100" height="100">
+  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/logo%20AmzMsgRRBot.pnghttps://github.com/Piero24/AmzUrlGen/blob/main/icon/logo%20AmzMsgRRBot.png" width="100" height="100">
 </p>
 
 <h1 align="center">
-    <a href="https://github.com/Piero24/Template-README">PROJECT TITLE</a>
+    <a href="https://github.com/Piero24/Template-README">AmazonUrlGen</a>
 </h1>
-
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
-</p>
--->
 
 > *<p align="center">This file contains an example in Italian on how to write a readme.md file for **Github!** <br/> It is a good idea to use the Markdown format syntax correctly to highlight the commands to be launched or particular blocks of code, for more for information see how to create and underline code blocks.*
 <p align="center">
