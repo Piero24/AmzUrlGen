@@ -29,7 +29,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/logo%20AmzMsgRRBot.pnghttps://github.com/Piero24/AmzUrlGen/blob/main/icon/logo%20AmzMsgRRBot.png" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/Piero24/AmzUrlGen/main/icon/logo%20AmzMsgRRBot.png?token=GHSAT0AAAAAABUJQU4SLPUQ634V2TMMKYVOYUGYBBA" width="100" height="100">
 </p>
 
 <h1 align="center">
