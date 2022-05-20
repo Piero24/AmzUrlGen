@@ -195,15 +195,15 @@
 <h2 id="made-in" align="center"><br/>🛠  Built in  🛠</h2>
   
 <p align="center">
-  Il bot usa 
+  The bot uses
   <a href="https://github.com/eternnoir/pyTelegramBotAPI">pyTelegramBotAPI</a>.
   <br/>
   <br/>
-  Maggiori dettagli sono presenti 
-  <a href="#third-party-licenses">qui</a>.
+  More details can be found 
+  <a href="#third-party-licenses">here</a>.
   <br/>
   <br/>
-  Linguaggi utilizzati:
+  Languages used:
   <br/>
   <br/>
   <a href="https://www.python.org">Python</a>
@@ -252,9 +252,9 @@
 <h2 id="prerequisites" align="center"><br/>🧰  Prerequisites  🧰</h2>
 
 <p align="center">
-  Prima di iniziare è necessario installare le dipendenze.
+  Before starting you need to install the dependencies.
   <br/>
-  In questo caso l'unica necessaria è quella delle pyTelegramBotAPI.
+  In this case the only one needed is that of the pyTelegramBotAPI.
   <br/>
   <br/>
 </p>
@@ -422,8 +422,8 @@
 <h2 id="roadmap" align="center"><br/><br/>🛫  Roadmap  🛬</h2>
 
 - [x] Multi-language README
-    - [x] Inglese
-    - [x] Italaino
+    - [x] English
+    - [x] Italian
 - [x] CANONICAL URL
 - [x] REVIEW LINK
 - [x] AMAZON BEST SELLER URL
