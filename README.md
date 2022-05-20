@@ -373,12 +373,42 @@
 <h2 id="structure-of-the-project" align="center"><br/><br/>💻  Structure of the Project  💻</h2>
 
 <p align="center">
-  This section explains the structure of directories and branches in order to easily guide the user through the code.
+  Using the bot is very simple.
+  <br/>
+  Open the telegram chat with your bot.
+  <br/>
+  You have 2 commands for information:
   <br/>
   <br/>
-  We have reached the last part of the central body concerning our project.
+  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev5.png">
   <br/>
-  From the next point we will indicate all the additional information such as: Contribute, Licenses etc...
+  <br/>
+  <strong>/list</strong>
+  <br/>
+  It tells you all the links you can choose
+  <br/>
+  <br/>
+  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev7.png">
+  <br/>
+  <br/>
+  <strong>/spiegazione</strong>
+  <br/>
+  It gives you the explanation of all the links.
+  <br/>
+  <br/>
+  So you can choose the most suitable link based on the result you want to achieve. Increase sales, rankings etc...
+  <br/>
+  <br/>
+  Once you have chosen the link, type the number of the link preceded by a slash <strong>'/1'</strong>
+  <br/>
+  Now enter the data you are asked for <strong>ONE PER LINE AND IN THE ORDER YOU ARE REQUESTED</strong>.
+  <br/>
+  <br/>
+  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev6.png">
+  <br/>
+  <br/>
+  <strong>Done!</strong> The bot has generated the link that you can use in your ADS or wherever you prefer.
+  <br/>
 </p>
 
 <p align="right"><a href="#top">⇧</a></p>
