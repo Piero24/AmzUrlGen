@@ -715,4 +715,4 @@ See the [open issues](https://github.com/Piero24/AmzUrlGen/issues) for a full li
 ---
 <br/>
 
-> *<p align="center"> Copyrright (C) by Pietrobon Andrea <br/> Released date: May-16-2022*
+> *<p align="center"> Copyrright (C) by Pietrobon Andrea <br/> Released date: May-20-2022*
