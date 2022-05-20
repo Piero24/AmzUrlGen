@@ -309,6 +309,7 @@
   <br/>
   This is an example of token ID: 123123608
   <br/>
+  <br/>
   You can finde more info
   <a href="https://www.alphr.com/telegram-find-user-id/"><strong>here</strong></a>
   <br/>
@@ -324,20 +325,39 @@
 <h2 id="how-to-start" align="center"><br/>⚙️  How to Start  ⚙️</h2>
 
 <p align="center"> 
-  <i>Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external 
-  dependencies or services.</i>
+  <i>At this point you have everything you need to get started.</i>
+  <br/>
+  <i>Download the file and open it with your IDE or as you prefer.</i>
+  <br/>
+  <br/>
+  Now we are going to enter your Telegram ID and the Token of your bot in the code.
+  <br/>
+  Your telegram ID is used to prevent third parties from using your bot without your consent.
+  <br/>
+  <br/>
+  <br/>
+  Open the <strong>main.py</strong> file
+  <br/>
+  At the beginning of the file you will have to replace the phrase <strong>YOUR-TELEGRAM-ID</strong> with your Telegram ID
+  <br/>
+  and then the phrase <strong>YOUR-TELEGRAM-API-TOKEN</strong> with your bot's Token.
+  <br/>
+  Once this is done, your bot is ready to go.
+  <br/>
+  <br/>
+  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev4.png">
+  <br/>
+  <br/>
+  To start it open the terminal and positioning yourself in the same folder as the <strong>main.py</strong> file and type:
+  <br/>
 </p>
-<br/>
+
 <h3 id="windows" align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/768px-Windows_logo_-_2021.svg.png" width="15" height="15">
   Windows
 </h3>
 <br/>
 
-<p align="center">1. 
-  Get a free API Key  
-  <a href="https://example.com">here</a>
-</p>
 <p align="center">
   2. Clone the repo
   
@@ -345,65 +365,14 @@
   git clone https://github.com/your_username_/Project-Name.git
   ```
 </p>
-<p align="center">
-  3. Install NPM packages
-  
-  ```sh
-  npm install
-  ```
-</p>
-<p align="center">
-  4. Enter your API in `config.js`
-  
-  ```js
-  const API_KEY = 'ENTER YOUR API';
-  ```
-</p>
-
-<p align="right"><a href="#top">⇧</a></p>
 
 <h3 id="macos" align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="15" height="15">
-  macOS
-</h3>
-<br/>
-
-<p align="center">1. 
-  Get a free API Key  
-  <a href="https://example.com">here</a>
-</p>
-<p align="center">
-  2. Clone the repo
-  
-  ```sh
-  git clone https://github.com/your_username_/Project-Name.git
-  ```
-</p>
-<p align="center">
-  3. Install NPM packages
-  
-  ```sh
-  npm install
-  ```
-</p>
-<p align="center">
-  4. Enter your API in `config.js`
-  
-  ```js
-  const API_KEY = 'ENTER YOUR API';
-  ```
-</p>
-
-<h3 id="linux" align="center">
+  macOS or 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1012px-Tux.svg.png" width="15" height="15">
   Linux
 </h3>
-<br/>
 
-<p align="center">1. 
-  Get a free API Key  
-  <a href="https://example.com">here</a>
-</p>
 <p align="center">
   2. Clone the repo
   
@@ -411,20 +380,13 @@
   git clone https://github.com/your_username_/Project-Name.git
   ```
 </p>
+
 <p align="center">
-  3. Install NPM packages
-  
-  ```sh
-  npm install
-  ```
+  <br/>
+  Now you can generate your links FAST and FREE!
+  <br/>
 </p>
-<p align="center">
-  4. Enter your API in `config.js`
-  
-  ```js
-  const API_KEY = 'ENTER YOUR API';
-  ```
-</p>
+
 
 <p align="right"><a href="#top">⇧</a></p>
 
