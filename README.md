@@ -424,7 +424,7 @@
 - [x] Multi-language README
     - [x] Inglese
     - [x] Italaino
-- [x] Add CANONICAL URL
+- [x] CANONICAL URL
 - [x] REVIEW LINK
 - [x] AMAZON BEST SELLER URL
 - [ ] ALEXA LINK
@@ -467,7 +467,7 @@ See the [open issues](https://github.com/Piero24/AmzUrlGen/issues) for a full li
   <br/>
   The complete version of the code of conduct can be viewed at the following link:
   <br/>
-  <a href="https://github.com/Piero24/Template-README/blob/main/CODE-OF-CONDUCT.md"><strong>Code of Conduct »</strong></a>
+  <a href="https://github.com/Piero24/AmzUrlGen/blob/main/CODE-OF-CONDUCT.md"><strong>Code of Conduct »</strong></a>
 </p>
 
 
@@ -486,7 +486,7 @@ See the [open issues](https://github.com/Piero24/AmzUrlGen/issues) for a full li
   <br/>
   it is strongly recommended to use the 
   <br/>
-  <a href="https://github.com/Piero24/Template-README/issues"><strong>ISSUES tool from Github »</strong></a>
+  <a href="https://github.com/Piero24/AmzUrlGen/issues"><strong>ISSUES tool from Github »</strong></a>
   <br/>
   <br/>
   Here you may already find the answer to the problem you have encountered,
@@ -538,7 +538,7 @@ See the [open issues](https://github.com/Piero24/AmzUrlGen/issues) for a full li
   and implementations that took place in the various program reviews.
   <br/>
   <br/>
-  <a href="https://github.com/Piero24/Template-README/blob/main/CHANGELOG.md"><strong>Explore the changelog docs</strong></a>
+  <a href="https://github.com/Piero24/AmzUrlGen/blob/main/CHANGELOG.md"><strong>Explore the changelog docs</strong></a>
   <br/>
 </p>
 
@@ -610,7 +610,7 @@ See the [open issues](https://github.com/Piero24/AmzUrlGen/issues) for a full li
   <i>software and other kinds of works.</i>
   <br/>
   <br/>
-  <a href="https://github.com/Piero24/Template-README/blob/main/LICENSE"><strong>License Documentation »</strong></a>
+  <a href="https://github.com/Piero24/AmzUrlGen/blob/main/LICENSE"><strong>License Documentation »</strong></a>
   <br/>
 </p>
 
@@ -635,7 +635,7 @@ See the [open issues](https://github.com/Piero24/AmzUrlGen/issues) for a full li
   <a href="https://twitter.com/pietrobonandrea">@PietrobonAndrea</a>
   <br/>
   🗄:
-  <a href="https://github.com/Piero24/Template-README">Project Title</a>
+  <a href="https://github.com/Piero24/AmzUrlGen">AmzUrlGen</a>
   <br/>
   <br/>
   <br/>
@@ -655,7 +655,7 @@ See the [open issues](https://github.com/Piero24/AmzUrlGen/issues) for a full li
   <br/>
   To find out more, visit my 
   <br/>
-  <a href="https://github.com/Piero24/Template-README/blob/main/LICENSE"><strong>website »</strong></a>
+  <a href="https://www.pietrobonandrea.com"><strong>website »</strong></a>
   <br/>
   <br/>
   The license of this repo as indicated in the 
@@ -664,7 +664,7 @@ See the [open issues](https://github.com/Piero24/AmzUrlGen/issues) for a full li
   GNU General Public License v3.0
   <br/>
   For more details visit the 
-  <a href="https://github.com/Piero24/Template-README/blob/main/LICENSE"><strong>licensing page »</strong></a>
+  <a href="https://github.com/Piero24/AmzUrlGen/blob/main/LICENSE"><strong>licensing page »</strong></a>
   <br/>
   <br/>
   <strong>The Copyright (C) of this project is held exclusively by my person.</strong>
@@ -698,14 +698,15 @@ See the [open issues](https://github.com/Piero24/AmzUrlGen/issues) for a full li
     <th>Note</th>
   </tr>
   <tr  align="center">
-    <td>None</td>
-    <td></td> 
-    <td></td>
-    <td></td>
+    <td>pyTelegramBotAPI</td>
+    <td><a href="https://github.com/eternnoir">eternoir</a></td>
+    <td><a href="https://github.com/eternnoir/pyTelegramBotAPI/blob/master/LICENSE">GNU GPL v2.0</a></td>
+    <td><a href="https://github.com/eternnoir/pyTelegramBotAPI">github</a></td>
     <td></td>
   </tr>
 </table>
 </p>
+
 
 <p align="right"><a href="#top">⇧</a></p>
 
