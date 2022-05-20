@@ -1,16 +1,17 @@
 <div id="top"></div>
 
 <!-- BADGE -->
-[![](https://img.shields.io/github/release-date/piero24/Template-README)]()
-[![](https://img.shields.io/github/last-commit/piero24/Template-README)]()
-[![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/Piero24/Template-README)
-<!--[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/Piero24/Template-README) -->
-[![](https://img.shields.io/github/issues/piero24/Template-README)]()
-[![](https://img.shields.io/github/issues-pr/piero24/Template-README)]()
-[![](https://img.shields.io/github/downloads/piero24/Template-README/total)]()
+[![](https://img.shields.io/github/release-date/piero24/AmazonUrlGen)]()
+[![](https://img.shields.io/github/last-commit/piero24/AmazonUrlGen)]()
+[![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/Piero24/AmazonUrlGen)
+<!--[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/Piero24/AmazonUrlGen) -->
+[![](https://img.shields.io/github/issues/piero24/AmazonUrlGen)]()
+[![](https://img.shields.io/github/issues-pr/piero24/AmazonUrlGen)]()
+[![](https://img.shields.io/github/downloads/piero24/AmazonUrlGen/total)]()
 
-[![](https://img.shields.io/github/license/piero24/Template-README)]()
+[![](https://img.shields.io/github/license/piero24/AmazonUrlGen)]()
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+
 
 <!--
 *** You can make other badges here
@@ -19,6 +20,7 @@
 *** [CircleCI](https://circleci.com/)
 -->
 <br/>
+
 
 <!-- Done ✅ Work in progress ⚠️ ~~Deprecate~~ ⛔️ -->
 **Status del progetto:** Work in progress ⚠️ <a href="#maintenance">⇩</a>
@@ -32,7 +34,7 @@
 </p>
 
 <h1 align="center">
-    <a href="https://github.com/Piero24/Template-README">AmazonUrlGen</a>
+    <a href="https://github.com/Piero24/AmzUrlGen">AmazonUrlGen</a>
 </h1>
 
 <!--
@@ -41,7 +43,9 @@
 </p>
 -->
 
-> *<p align="center">Questo file contiene un esempio in italiano su come scrivere un file readme.md per **Github!**<br/> È buona norma utilizzare correttamente la sintassi del formato Markdown per evidenziare i comandi da lanciare o particolari blocchi di codice, per maggiori informazioni si veda come creare e sottolineare i blocchi di codice.*
+> *<p align="center">AmzUrlGen è un bot di telegramma che ti consente di creare URL per le tue inserzioni su Amazon.
+   Questi collegamenti ti consentono di classificarti più velocemente e meglio per le parole chiave che hai scelto.
+   Così puoi aumentare le vendite dei tuoi prodotti su Amazon Marketplace.*
 
 <p align="center">
     La legenda è disponibile qui
@@ -54,11 +58,11 @@
     version
     <br/>
     <br/>
-    <a href="#itroduction">Demo</a>
+    <a href="https://github.com/Piero24/AmzUrlGen">Demo</a>
     •
-    <a href="https://github.com/Piero24/Template-README/issues">Segnala un bug</a>
+    <a href="https://github.com/Piero24/AmzUrlGen/issues">Segnala un bug</a>
     •
-    <a href="https://github.com/Piero24/Template-README/issues">Richiedi Feature</a>
+    <a href="https://github.com/Piero24/AmzUrlGen/issues">Richiedi Feature</a>
   </p>
 
 
@@ -70,11 +74,139 @@
 <h2 id="itroduction" align="center"><br/><br/><br/>📔  Itroduzione  📔</h2>
           
 <p align="center">
-  Questa sezione contiene una serie di informazioni su come utilizzare il codice ad esempio i prerequisiti, i dev tool da utilizzare etc.
+  Grazie a questo script puoi avere il tuo bot telegram personale per creare i link per le inserzioni.
+  <br/>
+  Il bot ti permette di generare i migliori link per indicizzare meglio i tuoi prodotti.
+  <br/>
+  Questi sono i link disponibili e la loro spiegazione:
   <br/>
   <br/>
   <br/>
-  <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png">
+  🧙‍ <strong>MAGIC LINK</strong> 🧙‍
+  <br/>
+  SuperURL che imita il traffico esterno. Dimostrato di essere il miglior URL di ranking.
+  <br/>
+  <br/>
+  🐲 <strong>SUPREME URL 2.0</strong> 🐲
+  <br/>
+  URL in 2 passaggi che fornisce risultati di ranking incredibili.
+  <br/>
+  Questo URL limita i prodotti tramite un ASIN e una parola chiave. 
+  <br/>
+  Scelta classifica n.1 Dopo molti test, abbiamo visto risultati fantastici con questo URL.
+  <br/>
+  <br/>
+  🐉 <strong>SUPREME URL</strong> 🐉
+  <br/>
+  Questo è l'ultimo generatore di Super URL. 
+  <br/>
+  Il nostro software proprietario genera l'URL ESATTO di Amazon utilizzato per determinare l'ora della ricerca, 
+  <br/>
+  l'attribuzione delle parole chiave e molto altro. Indirizza gli acquirenti alla pagina del prodotto, aumentando le conversioni. 
+  <br/>
+  Non c'è nessun altro Super URL là fuori simile!
+  <br/>
+  <br/>
+  🔎 <strong>SEARCH FIND BUY SEEKER URL (SFB)</strong> 🔎
+  <br/>
+  Questo URL consentirà ai tuoi clienti di trovare il prodotto nei risultati di ricerca. 
+  <br/>
+  Cerchiamo di trovare la pagina esatta in cui si trova il tuo annuncio. 
+  <br/>
+  In alcuni casi, i tuoi clienti potrebbero dover cercare in più pagine.
+  <br/>
+  <br/>
+  👟 <strong>2-STEP BRAND URL</strong> 👟
+  <br/>
+  Questo Super URL filtra il tuo prodotto richiesto per marca e parola chiave e attribuisce 
+  <br/>
+  parole chiave che sono legate direttamente al titolo del tuo prodotto. 
+  <br/>
+  Questo URL non include la funzione di timestamp e indirizza gli acquirenti a fare clic 
+  <br/>
+  sull'inserzione prima dell'acquisto.
+  <br/>
+  <br/>
+  🌱 <strong>BUY TOGETHER URL</strong> 🌱
+  <br/>
+  Questo Super URL ti consente di manipolare la sezione "acquistati frequentemente insieme" 
+  <br/>
+  di Amazon della tua inserzione, indirizzando il traffico a un pulsante che aggiunge due articoli al carrello. 
+  <br/>
+  Con un numero sufficiente di acquisti di due articoli, verranno visualizzati nella sezione 
+  <br/>
+  "acquistati frequentemente insieme" per entrambi gli elenchi.
+  <br/>
+  <br/>
+  🛒 <strong>ADD TO CART URL</strong> 🛒
+  <br/>
+  Le conversioni generate tramite questo URL danno ad Amazon l'impressione che 
+  <br/>
+  l'acquisto sia stato originato da Amazon Alexa. 
+  <br/>
+  Con un numero sufficiente di acquisti, questo aumenta la probabilità di guadagnare 
+  <br/>
+  il badge "Amazon Choice", portando spesso a un aumento delle vendite organiche.
+  <br/>
+  <br/>
+  🔑 <strong>CANONICAL URL</strong> 🔑
+  <br/>
+  Il 25% del traffico di ricerca di Amazon proviene dai motori di ricerca, 
+  <br/>
+  quindi la creazione di questo collegamento ti consente di ottimizzare la tua pagina per 
+  <br/>
+  il traffico dei motori di ricerca al di fuori di Amazon. Scegli come target 5 parole chiave con questo URL 
+  <br/>
+  e condividi su PBN o blog con link di ancoraggio. Quindi, guardalo scalare le classifiche di Google, 
+  <br/>
+  in base alle tue parole chiave!
+  <br/>
+  <br/>
+  <strong>PLAIN URL</strong>
+  <br/>
+  Questo è un semplice link di reindirizzamento per la tua inserzione Amazon senza il Super URL. 
+  <br/>
+  Utilizza questo reindirizzamento per contrassegnare i clic con il tuo pixel di 
+  <br/>
+  retargeting o semplicemente per monitorare i dati sui clic.
+  <br/>
+  <br/>
+  ⭐ ️<strong>REVIEW LINK</strong> ⭐️
+  <br/>
+  Questo collegamento indirizza il traffico alla pagina "Crea una recensione", 
+  <br/>
+  impostata con una valutazione predefinita a 5 stelle.
+  <br/>
+  <br/>
+  <strong>ADD TO CART LANDING PAGE</strong>
+  <br/>
+  Questo genera una pagina di destinazione Aggiungi al carrello con le istruzioni.
+  <br/>
+  <br/>
+  🚀 <strong>AMAZON CHOISE URL</strong> 🚀
+  <br/>
+  Questo crea risultati di ricerca basati su "Le migliori scelte di Alexa" con una parola chiave e un ASIN specifici.
+  <br/>
+  <br/>
+  1️⃣ <strong>AMAZON BEST SELLER URL</strong> 1️⃣
+  <br/>
+  Questo crea risultati di ricerca basati su "Alexa's Best Seller" con una parola chiave e un ASIN specifici.
+  <br/>
+  <br/>
+  🔵 <strong>ALEXA LINK</strong> 🔵
+  <br/>
+  <br/>
+  COMING SOON
+  <br/>
+  <br/>
+  🔥 <strong>AFFILIATE LINK</strong> 🔥
+  <br/>
+  <br/>
+  COMING SOON
+  <br/>
+  <br/>
+  <br/>
+  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev.png">
   <br/>
   <br/>
 </p>
@@ -84,15 +216,18 @@
 <h2 id="made-in" align="center"><br/>🛠  Realizzato in  🛠</h2>
   
 <p align="center">
-  Questa sezione dovrebbe elencare tutti i principali framework/librerie utilizzati per avviare il tuo progetto. 
-  Lascia eventuali componenti aggiuntivi/plug-in per la sezione dei ringraziamenti.
+  Il bot usa 
+  <a href="https://github.com/eternnoir/pyTelegramBotAPI">pyTelegramBotAPI</a>.
   <br/>
   <br/>
-  <a href="https://github.com/Piero24/Template-README">Programming Language 1</a>
-  •
-  <a href="https://github.com/Piero24/Template-README/issues">Programming Language 2</a>
-  •
-  <a href="https://github.com/Piero24/Template-README/issues">Programming Language 3</a>
+  Maggiori dettagli sono presenti 
+  <a href="#third-party-licenses">qui</a>.
+  <br/>
+  <br/>
+  Linguaggi utilizzati:
+  <br/>
+  <br/>
+  <a href="https://www.python.org">Python</a>
 </p>
 
 <p align="right"><a href="#top">⇧</a></p>
@@ -102,9 +237,6 @@
 <h2 id="index" align="center"><br/>📋  Indice  📋</h2>
 
 <p align="center">
-  <h4 align="center">
-    <a href="#documentation">Documentazione</a>
-  </h4>
   <h4 align="center">
     <a href="#prerequisites">Prerequisiti</a>
   </h4>
@@ -116,9 +248,6 @@
   </h4>
   <h4 align="center">
     <a href="#roadmap">Roadmap</a>
-  </h4>
-  <h4 align="center">
-    <a href="#community">Community</a>
   </h4>
   <h4 align="center">
     <a href="#responsible-disclosure">Responsible Disclosure</a>
@@ -141,31 +270,73 @@
 
 
 
-<h2 id="documentation" align="center"><br/><br/>📚  Documentazione  📚</h2>
-
-<p align="center">
-  Includere parti di documentazioni permettere di comprendere meglio ciò che fa il programma.
-  <br/>
-  A tal punto è meglio scrivere solo brevi porzioni.
-  <br/>
-  <br/>
-  Per una visione più ampia è meglio rimandare l'utente alla documentazione tramite link.
-  <br/>
-  <a href="https://shields.io/">Documentazione »</a>
-</p>
-
-<p align="right"><a href="#top">⇧</a></p>
-
-
-
 <h2 id="prerequisites" align="center"><br/>🧰  Prerequisiti  🧰</h2>
 
 <p align="center">
-  Questo è un esempio di come elencare le cose necessarie per utilizzare il software e come installarle.
+  Prima di iniziare è necessario installare le dipendenze.
+  <br/>
+  In questo caso l'unica necessaria è quella delle pyTelegramBotAPI.
+  <br/>
+  <br/>
+</p>
+  
   
   ```
-  Sezione dei pre requisiti
-  ```
+  pip3 install pyTelegramBotAPI
+  ```  
+  
+<p align="center">
+  <br/>
+  Una volta scaricato il programma è necessario creare il bot.
+  <br/>
+  Per fare ciò, apri semplicemente l'app Telegram, cerca
+  <br/>
+  <strong>@BotFather</strong>
+  <br/>
+  Inizia facendo clic su <strong>/start</strong> e continua a generare il nuovo bot.
+  <br/>
+  Dovrai scegliere il tuo nome e nome utente.
+  <br/>
+  Se lo desideri, puoi anche caricare l'immagine del profilo del tuo bot da qui.
+  <br/>
+  <br/>
+  Una volta generato, recupera il token del tuo bot.
+  <br/>
+  Il Token è una stringa alfanumerica con simboli che identifica in modo univoco il bot.
+  <br/>
+  <br/>
+  <strong>NON CONDIVIDERE IL TOKEN CON NESSUNO</strong>
+  <br/>
+  Questo token è strettamente personale.
+  <br/>
+  <br/>
+  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev2.png">
+  <br/>
+  <br/>
+  Ora devi recuperare il tuo ID Telegram.
+  <br/>
+  Per fare ciò, cerca il bot
+  <br/>
+  <strong>@userinfobot</strong>
+  <br/>
+  segui le istruzioni e recupera il tuo ID.
+  <br/>
+  (È una sequenza di 9 numeri personali che identifica il tuo account)
+  <br/>
+  anche in questo caso
+  <br/>
+  <br/>
+  <strong>NON CONDIVIDERE IL TUO ID TELEGRAM CON NESSUNO</strong>
+  <br/>
+  Questo è un esempio di token ID: 123123608
+  <br/>
+  <br/>
+  Puoi trovare maggiori informazioni
+  <a href="https://www.alphr.com/telegram-find-user-id/"><strong>qui</strong></a>
+  <br/>
+  <br/>
+  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev3.png">
+  <br/>
 </p>
   
 <p align="right"><a href="#top">⇧</a></p>
@@ -175,106 +346,44 @@
 <h2 id="how-to-start" align="center"><br/>⚙️  Come iniziare  ⚙️</h2>
 
 <p align="center"> 
-  <i>Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external 
-  dependencies or services.</i>
+  <i>A questo punto hai tutto il necessario per iniziare.</i>
+  <br/>
+  <i>Scarica il file e aprilo con il tuo IDE o come preferisci.</i>
+  <br/>
+  <br/>
+  Ora inseriamo il tuo ID Telegram e il Token del tuo bot nel codice.
+  <br/>
+  Il tuo ID telegramma viene utilizzato per impedire a terzi di utilizzare il tuo bot senza il tuo consenso.
+  <br/>
+  <br/>
+  <br/>
+  Apri il file <strong>main.py</strong>
+  <br/>
+  All'inizio del file dovrai sostituire la frase <strong>YOUR-TELEGRAM-ID</strong> con il tuo ID Telegram 
+  <br/>
+  e poi la frase <strong>YOUR-TELEGRAM-API-TOKEN</strong> con il Token del tuo bot.
+  <br/>
+  Fatto ciò, il tuo bot è pronto per l'uso.
+  <br/>
+  <br/>
+  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev4.png">
+  <br/>
+  <br/>
+  Per avviarlo apri il terminale e posizionati nella stessa cartella del file <strong>main.py</strong> e digita:
+  <br/>
 </p>
-<br/>
-<h3 id="windows" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/768px-Windows_logo_-_2021.svg.png" width="15" height="15">
-  Windows
-</h3>
-<br/>
 
-<p align="center">1. 
-  Get a free API Key  
-  <a href="https://example.com">here</a>
-</p>
 <p align="center">
-  2. Clone the repo
   
   ```sh
-  git clone https://github.com/your_username_/Project-Name.git
-  ```
-</p>
-<p align="center">
-  3. Install NPM packages
-  
-  ```sh
-  npm install
-  ```
-</p>
-<p align="center">
-  4. Enter your API in `config.js`
-  
-  ```js
-  const API_KEY = 'ENTER YOUR API';
+  python3 main.py
   ```
 </p>
 
-<p align="right"><a href="#top">⇧</a></p>
-
-<h3 id="macos" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="15" height="15">
-  macOS
-</h3>
-<br/>
-
-<p align="center">1. 
-  Get a free API Key  
-  <a href="https://example.com">here</a>
-</p>
 <p align="center">
-  2. Clone the repo
-  
-  ```sh
-  git clone https://github.com/your_username_/Project-Name.git
-  ```
-</p>
-<p align="center">
-  3. Install NPM packages
-  
-  ```sh
-  npm install
-  ```
-</p>
-<p align="center">
-  4. Enter your API in `config.js`
-  
-  ```js
-  const API_KEY = 'ENTER YOUR API';
-  ```
-</p>
-
-<h3 id="linux" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1012px-Tux.svg.png" width="15" height="15">
-  Linux
-</h3>
-<br/>
-
-<p align="center">1. 
-  Get a free API Key  
-  <a href="https://example.com">here</a>
-</p>
-<p align="center">
-  2. Clone the repo
-  
-  ```sh
-  git clone https://github.com/your_username_/Project-Name.git
-  ```
-</p>
-<p align="center">
-  3. Install NPM packages
-  
-  ```sh
-  npm install
-  ```
-</p>
-<p align="center">
-  4. Enter your API in `config.js`
-  
-  ```js
-  const API_KEY = 'ENTER YOUR API';
-  ```
+  <br/>
+  Ora puoi generare i tuoi link <strong>VELOCEMENTE e GRATIS!</strong>
+  <br/>
 </p>
 
 <p align="right"><a href="#top">⇧</a></p>
@@ -284,12 +393,42 @@
 <h2 id="structure-of-the-project" align="center"><br/><br/>💻  Struttura del progetto  💻</h2>
 
 <p align="center">
-  In questa sezione si spiega la struttura delle directory e dei branches in modo da poter guidare facilmente l'utente all'interno del codice.
+  Usare il bot è molto semplice.
+  <br/>
+  Apri la chat di Telegram con il tuo bot.
+  <br/>
+  Hai 2 comandi per informazioni:
   <br/>
   <br/>
-  Siamo giunti all'ultima parte del corpo centrale riguardante il nostro progetto.
+  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev5.png">
   <br/>
-  Dal prossimo punto si indicheranno tutte le informazioni aggiuntive come: Contribuire, Licenze ecc...
+  <br/>
+  <strong>/list</strong>
+  <br/>
+  Ti dice tutti i link che puoi scegliere
+  <br/>
+  <br/>
+  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev7.png">
+  <br/>
+  <br/>
+  <strong>/spiegazione</strong>
+  <br/>
+  Ti dà la spiegazione di tutti i link.
+  <br/>
+  <br/>
+  Quindi puoi scegliere il link più adatto in base al risultato che vuoi ottenere. Aumenta le vendite, le classifiche ecc...
+  <br/>
+  <br/>
+  Una volta scelto il link, digita il numero del link preceduto da una barra <strong>'/1'</strong>
+  <br/>
+  Ora inserisci i dati che ti vengono richiesti <strong>UNO PER RIGA E NELL'ORDINE CHE VI È RICHIESTO</strong>.
+  <br/>
+  <br/>
+  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev6.png">
+  <br/>
+  <br/>
+  <strong>Fatto!</strong> Il bot ha generato il collegamento che puoi utilizzare nel tuo ADS o dove preferisci.
+  <br/>
 </p>
 
 <p align="right"><a href="#top">⇧</a></p>
@@ -302,47 +441,21 @@
 
 <h2 id="roadmap" align="center"><br/><br/>🛫  Roadmap  🛬</h2>
 
-- [x] Upload code
-- [x] README file
+
 - [x] Multi-language README
     - [x] Inglese
     - [x] Italaino
-- [x] Point 1
-- [ ] Point 2
-- [ ] Point 3
+- [x] CANONICAL URL
+- [x] REVIEW LINK
+- [x] AMAZON BEST SELLER URL
+- [ ] ALEXA LINK
+- [ ] AFFILIATE LINK
 
-Verifica su [open issues](https://github.com/Piero24/Template-README/issues) per la lista completa delle features richieste (e conoscere i problemi).
+Verifica su [open issues](https://github.com/Piero24/AmzUrlGen/issues) per la lista completa delle features richieste (e conoscere i problemi).
 
 <p align="right"><a href="#top">⇧</a></p>
 
 
-
-<h2 id="community" align="center"><br/><br/>🌍  Community  🌍</h2>
-
-<p align="center">
-  Esistono 3 gruppi riguardanti questo progetto.
-  <br/>
-  <br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="20" height="20" align="center">
-  <a href="https://telegram.org"><strong>Canle Telegram</strong></a>
-  <br/>
-  <br/>
-  <img src="https://a.slack-edge.com/80588/marketing/img/meta/slack_hash_256.png" width="20" height="20" align="center">
-  <a href="https://slack.com"><strong>Canle Slack</strong></a>
-  <br/>
-  <br/>
-  <img src="https://www.svgrepo.com/show/331368/discord-v2.svg" width="20" height="20" align="center">
-  <a href="https://discord.com"><strong>Canle Discord</strong></a>
-  <br/>
-  <br/>
-  In questi gruppi è possibile discutere di tutto ciò che riguarda il progetto e avere supporto per eventuali problemi nel suo utilizzo.
-  <br/>
-  Per le problematiche si informa che bisogna aprire un caso qui prima di parlarne nei canali.
-  <br/>
-  <br/>
-</p>
-  
-<p align="right"><a href="#top">⇧</a></p>
 
 
 
@@ -448,11 +561,7 @@ Verifica su [open issues](https://github.com/Piero24/Template-README/issues) per
   <a href="#top">Status del progetto</a>
   a inizio pagina.
   <br/>
-  <br/>
-  In questa sezione sono specificate nel dettaglio quali parti del codice sono in
-  <br/>
-  manutenzione e per quale motivo.
-  
+  <br/> 
 </p>
 
  <br/>
@@ -562,7 +671,7 @@ Verifica su [open issues](https://github.com/Piero24/Template-README/issues) per
   <a href="https://twitter.com/pietrobonandrea">@PietrobonAndrea</a>
   <br/>
   🗄:
-  <a href="https://github.com/Piero24/Template-README">Project Title</a>
+  <a href="https://github.com/Piero24/Template-README">AmazonUrlGen</a>
   <br/>
   <br/>
   <br/>
