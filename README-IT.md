@@ -458,6 +458,12 @@
 - [x] AMAZON BEST SELLER URL
 - [ ] ALEXA LINK
 - [ ] AFFILIATE LINK
+- [ ] Versione per gli altri marketplace
+    - [ ] US
+    - [ ] UK
+    - [ ] FR
+    - [ ] DE
+    - [ ] ES
 
 Verifica su [open issues](https://github.com/Piero24/AmzUrlGen/issues) per la lista completa delle features richieste (e conoscere i problemi).
 
