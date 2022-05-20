@@ -22,7 +22,7 @@
 <br/>
 
 <!-- Done ✅ Work in progress ⚠️ ~~Deprecate~~ ⛔️ -->
-**Project Status:** Work in progress ⚠️ <a href="#maintenance">⇩</a>
+**Project Status:** Done ✅ <a href="#maintenance">⇩</a>
 <br/>
 **Percentage Completely:** 70% 🔋 <a href="#roadmap">⇩</a>
 <br/>
@@ -526,10 +526,6 @@ See the [open issues](https://github.com/Piero24/AmzUrlGen/issues) for a full li
    at the top of the page.
   <br/>
   <br/>
-  This section details which parts of the code are under 
-  <br/>
-  maintenance and for what reason.
-  
 </p>
 
  <br/>
