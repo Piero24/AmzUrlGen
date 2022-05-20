@@ -733,10 +733,10 @@ Verifica su [open issues](https://github.com/Piero24/AmzUrlGen/issues) per la li
     <th>Note</th>
   </tr>
   <tr  align="center">
-    <td>None</td>
-    <td></td> 
-    <td></td>
-    <td></td>
+    <td>pyTelegramBotAPI</td>
+    <td><a href="https://github.com/eternnoir">eternoir</a></td>
+    <td><a href="https://github.com/eternnoir/pyTelegramBotAPI/blob/master/LICENSE">GNU GPL v2.0</a></td>
+    <td><a href="https://github.com/eternnoir/pyTelegramBotAPI">github</a></td>
     <td></td>
   </tr>
 </table>
