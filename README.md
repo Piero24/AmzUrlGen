@@ -270,7 +270,11 @@
   <br/>
   To do this, simply open the telegram app, search
   <br/>
-  `@BotFather`
+</p>
+
+`@BotFather`
+  
+<p align="center">
   <br/>
   Start by clicking on /start and continue to generate the new bot.
   <br/>
@@ -293,7 +297,11 @@
   <br/>
   To do this, look for the bot
   <br/>
-  @userinfobot
+</p>
+  
+`@userinfobot`
+
+<p align="center">
   <br/>
   follow the instructions and recover your ID.
   <br/>
@@ -306,6 +314,7 @@
   <br/>
   This is an example of token ID: 123123608
   <br/>
+</p>
 </p>
   
 <p align="right"><a href="#top">⇧</a></p>
