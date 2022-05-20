@@ -54,7 +54,7 @@
     <br/>
     <br/>
     🇬🇧 
-    <a href="https://github.com/Piero24/Template-README/blob/main/README.md"><strong>English</strong></a> 
+    <a href="https://github.com/Piero24/AmzUrlGen/blob/main/README.md"><strong>English</strong></a> 
     version
     <br/>
     <br/>
@@ -442,7 +442,7 @@
 <h2 id="roadmap" align="center"><br/><br/>🛫  Roadmap  🛬</h2>
 
 
-- [x] Multi-language README
+- [x] README Multilingue
     - [x] Inglese
     - [x] Italaino
 - [x] CANONICAL URL
@@ -503,7 +503,7 @@ Verifica su [open issues](https://github.com/Piero24/AmzUrlGen/issues) per la li
   <br/>
   La versione completa del codice di condotta è visionabile al seguente link:
   <br/>
-  <a href="https://github.com/Piero24/Template-README/blob/main/CODE-OF-CONDUCT.md"><strong>Codice di condotta »</strong></a>
+  <a href="https://github.com/Piero24/AmzUrlGen/blob/main/CODE-OF-CONDUCT.md"><strong>Codice di condotta »</strong></a>
 </p>
 
 
@@ -522,7 +522,7 @@ Verifica su [open issues](https://github.com/Piero24/AmzUrlGen/issues) per la li
   <br/>
   si raccomanda fortemente di usare lo strumento 
   <br/>
-  <a href="https://github.com/Piero24/Template-README/issues"><strong>ISSUES di Github »</strong></a>
+  <a href="https://github.com/Piero24/AmzUrlGen/issues"><strong>ISSUES di Github »</strong></a>
   <br/>
   <br/>
   Qui potreste trovare già la risposta al problema che avete riscontrato,
@@ -574,7 +574,7 @@ Verifica su [open issues](https://github.com/Piero24/AmzUrlGen/issues) per la li
   e le implementazioni avvenute nelle varie verisioni del programma.
   <br/>
   <br/>
-  <a href="https://github.com/Piero24/Template-README/blob/main/CHANGELOG.md"><strong>Visiona la documentazione dei changelog »</strong></a>
+  <a href="https://github.com/Piero24/AmzUrlGen/blob/main/CHANGELOG.md"><strong>Visiona la documentazione dei changelog »</strong></a>
   <br/>
 </p>
 
@@ -646,7 +646,7 @@ Verifica su [open issues](https://github.com/Piero24/AmzUrlGen/issues) per la li
   <i>software and other kinds of works.</i>
   <br/>
   <br/>
-  <a href="https://github.com/Piero24/Template-README/blob/main/LICENSE"><strong>Documentazione della licenza »</strong></a>
+  <a href="https://github.com/Piero24/AmzUrlGen/blob/main/LICENSE"><strong>Documentazione della licenza »</strong></a>
   <br/>
 </p>
 
@@ -671,7 +671,7 @@ Verifica su [open issues](https://github.com/Piero24/AmzUrlGen/issues) per la li
   <a href="https://twitter.com/pietrobonandrea">@PietrobonAndrea</a>
   <br/>
   🗄:
-  <a href="https://github.com/Piero24/Template-README">AmazonUrlGen</a>
+  <a href="https://github.com/Piero24/AmzUrlGen">AmazonUrlGen</a>
   <br/>
   <br/>
   <br/>
@@ -691,7 +691,7 @@ Verifica su [open issues](https://github.com/Piero24/AmzUrlGen/issues) per la li
   <br/>
   Per saperne di più visita il mio
   <br/>
-  <a href="https://github.com/Piero24/Template-README/blob/main/LICENSE"><strong>sito web »</strong></a>
+  <a href="https://www.pietrobonandrea.com"><strong>sito web »</strong></a>
   <br/>
   <br/>
   La licenza di questa repo come indicato nella sezione 
@@ -700,7 +700,7 @@ Verifica su [open issues](https://github.com/Piero24/AmzUrlGen/issues) per la li
   GNU General Public License v3.0
   <br/>
   Per maggiori dettagli visita la 
-  <a href="https://github.com/Piero24/Template-README/blob/main/LICENSE"><strong>pagina delle licenze »</strong></a>
+  <a href="https://github.com/Piero24/AmzUrlGen/blob/main/LICENSE"><strong>pagina delle licenze »</strong></a>
   <br/>
   <br/>
   <strong>Il Copyright (C) del presente progetto lo detiene eslusivamente la mia persona.</strong>
@@ -749,6 +749,6 @@ Verifica su [open issues](https://github.com/Piero24/AmzUrlGen/issues) per la li
 ---
 <br/>
 
-> *<p align="center"> Copyrright (C) di Pietrobon Andrea <br/> Data di rilascio: May-16-2022*
+> *<p align="center"> Copyrright (C) di Pietrobon Andrea <br/> Data di rilascio: May-20-2022*
   
  
