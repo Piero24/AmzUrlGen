@@ -270,25 +270,21 @@
   <br/>
   To do this, simply open the telegram app, search
   <br/>
-</p>
-
-`@BotFather`
-  
-<p align="center">
+  <strong>@BotFather</strong>
   <br/>
-  Start by clicking on /start and continue to generate the new bot.
+  Start by clicking on <strong>/start</strong> and continue to generate the new bot.
   <br/>
   You will need to choose your name and username.
   <br/>
   If you want, you can also upload your bot's profile image from here.
   <br/>
   <br/>
-  Once generated, retrieve your bot token.
+  Once generated, retrieve your bot Token.
   <br/>
   The Token is an alphanumeric string with symbols that uniquely identifies the bot.
   <br/>
   <br/>
-  DO NOT SHARE THE TOKEN WITH ANYONE
+  <strong>DO NOT SHARE THE TOKEN WITH ANYONE</strong>
   <br/>
   This token is strictly personal.
   <br/>
@@ -297,11 +293,7 @@
   <br/>
   To do this, look for the bot
   <br/>
-</p>
-  
-`@userinfobot`
-
-<p align="center">
+  <strong>@userinfobot</strong>
   <br/>
   follow the instructions and recover your ID.
   <br/>
@@ -310,7 +302,7 @@
   also in this case
   <br/>
   <br/>
-  DO NOT SHARE YOUR TELEGRAM ID WITH ANYONE
+  <strong>DO NOT SHARE YOUR TELEGRAM ID WITH ANYONE</strong>
   <br/>
   This is an example of token ID: 123123608
   <br/>
