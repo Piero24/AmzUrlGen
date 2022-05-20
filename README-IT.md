@@ -397,10 +397,10 @@
   <br/>
   Apri la chat di Telegram con il tuo bot.
   <br/>
-  Hai 2 comandi per informazioni:
+  Hai 3 comandi per informazioni:
   <br/>
   <br/>
-  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev5.png">
+  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev8.png">
   <br/>
   <br/>
   <strong>/list</strong>
@@ -419,7 +419,15 @@
   Quindi puoi scegliere il link più adatto in base al risultato che vuoi ottenere. Aumenta le vendite, le classifiche ecc...
   <br/>
   <br/>
-  Una volta scelto il link, digita il numero del link preceduto da una barra <strong>'/1'</strong>
+  <strong>/utilizzo</strong>
+  <br/>
+  Ti spiega come utilizzare il bot.
+  <br/>
+  <br/>
+  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev9.png">
+  <br/>
+  <br/>
+  In sintesi una volta scelto il link, digita il numero del link preceduto da una barra <strong>'/1'</strong>
   <br/>
   Ora inserisci i dati che ti vengono richiesti <strong>UNO PER RIGA E NELL'ORDINE CHE VI È RICHIESTO</strong>.
   <br/>
