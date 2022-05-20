@@ -377,10 +377,10 @@
   <br/>
   Open the telegram chat with your bot.
   <br/>
-  You have 2 commands for information:
+  You have 3 commands for information:
   <br/>
   <br/>
-  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev5.png">
+  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev8.png">
   <br/>
   <br/>
   <strong>/list</strong>
@@ -399,7 +399,15 @@
   So you can choose the most suitable link based on the result you want to achieve. Increase sales, rankings etc...
   <br/>
   <br/>
-  Once you have chosen the link, type the number of the link preceded by a slash <strong>'/1'</strong>
+  <strong>/utilizzo</strong>
+  <br/>
+  It explains how to use the bot.
+  <br/>
+  <br/>
+  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev9.png">
+  <br/>
+  <br/>
+  In summary once you have chosen the link, type the number of the link preceded by a slash <strong>'/1'</strong>
   <br/>
   Now enter the data you are asked for <strong>ONE PER LINE AND IN THE ORDER YOU ARE REQUESTED</strong>.
   <br/>
