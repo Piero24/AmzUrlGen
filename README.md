@@ -1,15 +1,15 @@
 <div id="top"></div>
 
 <!-- BADGE -->
-[![](https://img.shields.io/github/release-date/piero24/AmazonUrlGen)]()
-[![](https://img.shields.io/github/last-commit/piero24/AmazonUrlGen)]()
+[![Release Date](https://img.shields.io/github/release-date/piero24/AmazonUrlGen)]()
+[![Last Commit](https://img.shields.io/github/last-commit/piero24/AmazonUrlGen)]()
 [![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/Piero24/AmazonUrlGen)
 <!--[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/Piero24/AmazonUrlGen) -->
-[![](https://img.shields.io/github/issues/piero24/AmazonUrlGen)]()
-[![](https://img.shields.io/github/issues-pr/piero24/AmazonUrlGen)]()
-[![](https://img.shields.io/github/downloads/piero24/AmazonUrlGen/total)]()
+[![Issues](https://img.shields.io/github/issues/piero24/AmazonUrlGen)]()
+[![Issues Pr](https://img.shields.io/github/issues-pr/piero24/AmazonUrlGen)]()
+[![Downloads](https://img.shields.io/github/downloads/piero24/AmazonUrlGen/total)]()
 
-[![](https://img.shields.io/github/license/piero24/AmazonUrlGen)]()
+[![License](https://img.shields.io/github/license/Piero24/AmzUrlGen)]()
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 
