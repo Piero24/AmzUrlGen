@@ -289,6 +289,9 @@
   This token is strictly personal.
   <br/>
   <br/>
+  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev2.png">
+  <br/>
+  <br/>
   Now you need to recover your Telegram ID.
   <br/>
   To do this, look for the bot
@@ -306,7 +309,12 @@
   <br/>
   This is an example of token ID: 123123608
   <br/>
-</p>
+  You can finde more info
+  <a href="https://www.alphr.com/telegram-find-user-id/"><strong>here</strong></a>
+  <br/>
+  <br/>
+  <img src="https://github.com/Piero24/AmzUrlGen/blob/main/icon/prev3.png">
+  <br/>
 </p>
   
 <p align="right"><a href="#top">⇧</a></p>
