@@ -421,16 +421,16 @@
 
 <h2 id="roadmap" align="center"><br/><br/>🛫  Roadmap  🛬</h2>
 
-- [x] Upload code
-- [x] README file
 - [x] Multi-language README
     - [x] Inglese
     - [x] Italaino
-- [x] Point 1
-- [ ] Point 2
-- [ ] Point 3
+- [x] Add CANONICAL URL
+- [x] REVIEW LINK
+- [x] AMAZON BEST SELLER URL
+- [ ] ALEXA LINK
+- [ ] AFFILIATE LINK
 
-See the [open issues](https://github.com/Piero24/Template-README/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Piero24/AmzUrlGen/issues) for a full list of proposed features (and known issues).
 
 <p align="right"><a href="#top">⇧</a></p>
 
