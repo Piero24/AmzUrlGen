@@ -270,7 +270,7 @@
   <br/>
   To do this, simply open the telegram app, search
   <br/>
-  @BotFather
+  `@BotFather`
   <br/>
   Start by clicking on /start and continue to generate the new bot.
   <br/>
@@ -285,6 +285,7 @@
   <br/>
   <br/>
   DO NOT SHARE THE TOKEN WITH ANYONE
+  <br/>
   This token is strictly personal.
   <br/>
   <br/>
@@ -292,7 +293,7 @@
   <br/>
   To do this, look for the bot
   <br/>
-  @
+  @userinfobot
   <br/>
   follow the instructions and recover your ID.
   <br/>
