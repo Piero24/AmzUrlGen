@@ -352,38 +352,16 @@
   <br/>
 </p>
 
-<h3 id="windows" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/768px-Windows_logo_-_2021.svg.png" width="15" height="15">
-  Windows
-</h3>
-<br/>
-
 <p align="center">
-  2. Clone the repo
   
   ```sh
-  git clone https://github.com/your_username_/Project-Name.git
-  ```
-</p>
-
-<h3 id="macos" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="15" height="15">
-  macOS or 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1012px-Tux.svg.png" width="15" height="15">
-  Linux
-</h3>
-
-<p align="center">
-  2. Clone the repo
-  
-  ```sh
-  git clone https://github.com/your_username_/Project-Name.git
+  python3 main.py
   ```
 </p>
 
 <p align="center">
   <br/>
-  Now you can generate your links FAST and FREE!
+  Now you can generate your links <strong>FAST and FREE!</strong>
   <br/>
 </p>
 
