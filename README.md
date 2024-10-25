@@ -64,7 +64,7 @@
 
 
 
-<h2 id="itroduction" align="center"><br/><br/><br/>📔  Itroduction  📔</h2>
+<h2 id="introduction" align="center"><br/><br/><br/>📔  Introduction  📔</h2>
           
 <p align="center">
   Thanks to this script you can have your own personal telegram bot to create the links for the listings.
